@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hola me llamo Tomas.
+          Ronald Raegan was the antichrist, bush did 911 and Jesus was Black.
         </p>
         <a
           className="App-link"
