@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://previews.123rf.com/images/asmati/asmati1606/asmati160603486/58472457-todo-lo-ve-s%C3%ADmbolo-de-la-pir%C3%A1mide-del-ojo-mas%C3%B3n-y-espiritual-estilo-plano-icono-negro-sobre-fondo-tr.jpg">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWt5gM1hSV9kPrcz01wuKnawKDwY05u3J_g&usqp=CAU">
         <p>
           Peña come home :(
         </p>
