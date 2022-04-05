@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={"https://static1.lasprovincias.es/www/multimedia/201902/07/media/cortadas/illuminati2-kPq-U70569204232WuC-624x385@Las%20Provincias.JPG"} className="App-logo" alt="logo" />
+        <img src="https://static1.lasprovincias.es/www/multimedia/201902/07/media/cortadas/illuminati2-kPq-U70569204232WuC-624x385@Las%20Provincias.JPG">
         <p>
           Peña come home :(
         </p>
