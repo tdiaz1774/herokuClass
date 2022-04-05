@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://static1.lasprovincias.es/www/multimedia/201902/07/media/cortadas/illuminati2-kPq-U70569204232WuC-624x385@Las%20Provincias.JPG">
+        <img src="https://img1.freepng.es/20180320/rfe/kisspng-illuminati-new-world-order-eye-of-providence-illuminati-save-icon-format-5ab093b99f8b02.7591178615215215936535.jpg">
         <p>
           Peña come home :(
         </p>
