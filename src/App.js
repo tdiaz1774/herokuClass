@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWt5gM1hSV9kPrcz01wuKnawKDwY05u3J_g&usqp=CAU">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Illuminati_triangle_eye.png/1200px-Illuminati_triangle_eye.png">
         <p>
           Peña come home :(
         </p>
